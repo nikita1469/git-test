@@ -5,3 +5,7 @@ body {
 .block1 {
     color: #d61978;
 }
+
+p {
+    font-size: large;
+}
